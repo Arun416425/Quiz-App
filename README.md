@@ -33,33 +33,3 @@ src/
 │
 ├── App.js
 └── main.jsx
-
-Installation
-Clone the repository
-git clone https://github.com/Arun416425/Quiz-App.git
-Navigate to project folder
-cd Quiz-App
-Install dependencies
-npm install
-Start development server
-npm run dev
-How It Works
-User selects an answer
-App checks whether the selected answer is correct
-Correct answer is highlighted
-Score updates automatically
-User can move to next question
-Final result is displayed at the end
-Future Improvements
-Timer for each question
-Category-based quizzes
-Difficulty levels
-Backend integration
-Leaderboard system
-Author
-
-Arun
-
-License
-
-This project is open source and available under the MIT License.
